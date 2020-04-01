@@ -7,16 +7,19 @@ Forward: ACTG<br/>
 Reverse: TACG (complement CGTA)<br/>
 joinString: NNN<br/>
 Merge: ACTGNNNCGTA<br/>
+
 ---------------------------------------------------------------
 Running 
 ---------------------------------------------------------------
 `mergetNotCombined` F1.fastq R1.fastq `joinString`<br/>
 Example:<br/>
 `mergetNotCombined` F1.fastq R1.fastq 'NNN'<br/>
+
 ---------------------------------------------------------------
 License
 --------------------------------------------------------------
 This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details<br/>
+
 ---------------------------------------------------------------
 Authors
 ---------------------------------------------------------------
